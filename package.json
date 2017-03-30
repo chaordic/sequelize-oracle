@@ -1,5 +1,5 @@
 {
-  "name": "cu8-sequelize-oracle",
+  "name": "sequelize-oracle",
   "description": "Multi dialect ORM for Node.JS/io.js",
   "version": "1.0.5",
   "author": {
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhuanhoangduc/cu8-sequelize-oracle.git"
+    "url": "git+https://github.com/chaordic/sequelize-oracle.git"
   },
   "bugs": {
-    "url": "https://github.com/nhuanhoangduc/cu8-sequelize-oracle/issues"
+    "url": "https://github.com/chaordic/sequelize-oracle/issues"
   },
   "dependencies": {
     "bluebird": "~2.9.24",
@@ -77,7 +77,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "gitHead": "83826c49ea7a680ea606a6fe191bab02522d77aa",
-  "homepage": "https://github.com/nhuanhoangduc/cu8-sequelize-oracle#readme",
+  "homepage": "https://github.com/chaordic/sequelize-oracle#readme",
   "_shasum": "7f17f4705394b3136c54c0d33a50428862c89205",
-  "_from": "cu8-sequelize-oracle@*"
+  "_from": "sequelize-oracle@*"
 }
