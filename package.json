@@ -19,6 +19,7 @@
     "url": "https://github.com/chaordic/sequelize-oracle/issues"
   },
   "dependencies": {
+    "async": "^2.2.0",
     "bluebird": "~2.9.24",
     "deasync": "^0.1.9",
     "depd": "^1.0.1",
