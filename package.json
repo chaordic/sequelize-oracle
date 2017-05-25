@@ -1,7 +1,7 @@
 {
   "name": "sequelize-oracle",
   "description": "Multi dialect ORM for Node.JS/io.js",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": {
     "name": "Nhuan"
   },

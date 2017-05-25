@@ -50,6 +50,8 @@ Hey! I'm Nhua Nhua, who came from Mars. Wish you have a nice day and feel comfor
       ```
  - 1.0.5 Fix join model cannot load CLOB
 
+ - 1.0.6 Adding TNS support
+
 **DataType: only this dataTypes are managed:**
 
     STRING (=VARCHAR2)
